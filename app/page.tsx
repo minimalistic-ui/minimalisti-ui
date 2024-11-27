@@ -1,3 +1,4 @@
+import Header from "@/components/Header";
 import Newsletter from "@/components/Newsletter";
 import Xlinks from "@/components/Xlinks";
 import { ArrowRight } from "lucide-react";
@@ -6,6 +7,7 @@ import Link from "next/link";
 export default function Home() {
   return (
     <>
+    <Header/>
       <main>
         <div className="px-4 sm:px-6">
           <div className="mx-auto w-full max-w-3xl">
@@ -19,7 +21,7 @@ export default function Home() {
             </div>
             <div className="mb-16">
               <h1 className="mx-auto mb-4 max-w-3xl text-4xl/[1.1] font-bold font-jetbrains  text-foreground md:text-5xl/[1.1] tracking-tighter">
-                Effortless UI Building with Minimal UI
+                Effortless UI Building with Minimalitic UI
               </h1>
               <p className="text-lg text-muted-foreground">
                 Beautiful, customizable Nextjs and Tailwind CSS components for
