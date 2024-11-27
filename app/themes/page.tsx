@@ -1,5 +1,6 @@
-import { Moon, Sun, Laptop } from "lucide-react";
 import { Card } from "@/components/ui/card";
+import { Moon, Sun, Laptop } from "lucide-react";
+
 
 export default function ThemesPage() {
   return (
