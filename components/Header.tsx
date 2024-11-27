@@ -13,7 +13,7 @@ import {
   SheetTitle,
   SheetTrigger,
 } from "@/components/ui/sheet";
-import { MailCheck } from "lucide-react";
+import { Github, MailCheck, Star } from "lucide-react";
 
 const Header = () => {
   return (

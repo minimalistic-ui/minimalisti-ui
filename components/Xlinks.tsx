@@ -9,8 +9,8 @@ const Xlinks = () => {
       <span className="text-zinc-500">Brought to you by</span>
       <Link href="github.com/AdityaSrivastava184">
         <Avatar>
-          <AvatarImage src="https://github.com/shadcn.png" alt="@shadcn" />
-          <AvatarFallback>CN</AvatarFallback>
+          <AvatarImage src="https://avatars.githubusercontent.com/u/102461506?s=400&u=4718570e83b5ad0cd169157f7eef3c48031a07d9&v=4" alt="@minimal-ui" />
+          <AvatarFallback>AS</AvatarFallback>
         </Avatar>
       </Link>
     </div>
