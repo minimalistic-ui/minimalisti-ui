@@ -16,7 +16,7 @@ export default function Home() {
                 target="_blank"
               >
                 <button>
-                  <div className="flex justify-center items-center gap-1 bg-white md:p-2 rounded-full mb-5">
+                  <div className="flex justify-center items-center gap-1 bg-white p-2 rounded-full mb-5">
                     <Github className="text-black" />{" "}
                     <p className="text-black">Star Us</p>{" "}
                   </div>
